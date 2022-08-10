@@ -12,18 +12,17 @@ class Solution {
             
             List<Character> list = new LinkedList<>();
             for(int j = i; j < s.length(); j++){
-                if(!list.contains(s.charAt(j))){
+                if(list.contains(s.charAt(j))){
+                    if(answer < list.size()){
+                        answer = list.size();
+                    }
+                    break;
+                } else {
                     list.add(s.charAt(j));
 
                     if(j == s.length() - 1){
                         answer = Math.max(answer, list.size());
                     }
-                } else {
-                    if(answer < list.size()){
-                        answer = list.size();
-                    }
-                    
-                    break;
                 }    
             }
         }
