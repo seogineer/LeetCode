@@ -24,8 +24,6 @@ class Solution {
                     }
                     
                     break;
-                    // list.clear();
-                    // list.add(s.charAt(j));
                 }    
             }
         }
