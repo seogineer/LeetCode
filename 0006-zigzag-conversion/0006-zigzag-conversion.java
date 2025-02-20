@@ -4,33 +4,29 @@ class Solution {
             return s;
         }
 
-        String[][] arr = new String[numRows][s.length()];
-        boolean flag = true;
-        int row = 0;
-        int col = 0;
-        for (int i = 0; i < s.length(); i++) {
-            arr[row][col] = s.charAt(i) + "";
-            if (flag) {
-                row++;
-            } else {
-                row--;
-                col++;
+        List<List<Character>> rows = new ArrayList<>();
+        for (int i = 0; i < numRows; i++) {
+            rows.add(new ArrayList<>());
+        }
+
+        int index = 0;
+        int d = 1;
+        for (char c : s.toCharArray()) {
+            List<Character> row = rows.get(index);
+            row.add(c);
+
+            if (index == 0) {
+                d = 1;
+            } else if (index == numRows - 1) {
+                d = -1;
             }
-            if (row == numRows - 1) {
-                row %= numRows;
-                flag = !flag;
-            } else if (row == 0) {
-                flag = !flag;
-            }
+            index += d;
         }
 
         StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < numRows; i++) {
-            for (int j = 0; j < s.length(); j++) {
-                if (arr[i][j] == null) {
-                    continue;
-                }
-                sb.append(arr[i][j]);
+        for (List<Character> row : rows) {
+            for (char c : row) {
+                sb.append(c);
             }
         }
 
