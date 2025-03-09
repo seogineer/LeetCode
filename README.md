@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/seogineer/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/seogineer/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/seogineer/LeetCode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/seogineer/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/seogineer/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/seogineer/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/seogineer/LeetCode/tree/master/0134-gas-station) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/seogineer/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/seogineer/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/seogineer/LeetCode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/seogineer/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/seogineer/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/seogineer/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/seogineer/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/seogineer/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/seogineer/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
