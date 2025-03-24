@@ -1,28 +1,16 @@
 class Solution {
     public boolean isHappy(int n) {
-        List<Double> list = new ArrayList<>();
-        boolean isHappyNumber = false;
-        String input = String.valueOf(n);
-        while (true) {
-            String[] arr = input.split("");
-            
-            double sum = 0;
-            for(int i = 0; i < arr.length; i++){
-                sum += Math.pow(Integer.parseInt(arr[i]), 2);
+        HashSet<Integer> seen = new HashSet<>();
+        while (n != 1 && !seen.contains(n)) {
+            seen.add(n);
+            int sum = 0;
+            while (n > 0) {
+                int digit = n % 10;
+                sum += digit * digit;
+                n /= 10;
             }
-            
-            if(list.contains(sum)){
-                break;
-            }
-            list.add(sum);
-            
-            if(sum == 1 || sum % (int) Math.pow(10, String.valueOf(sum).length() - 1) == 0){
-                isHappyNumber = true;
-                break;
-            }
-            input = String.valueOf((int) sum);
+            n = sum;
         }
-        
-        return isHappyNumber;
+        return n == 1;
     }
 }
