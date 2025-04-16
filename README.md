@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/seogineer/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/seogineer/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/seogineer/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/seogineer/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/seogineer/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/seogineer/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/seogineer/LeetCode/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/seogineer/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/seogineer/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/seogineer/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/seogineer/LeetCode/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/seogineer/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sliding Window
 |  |
 | ------- |
