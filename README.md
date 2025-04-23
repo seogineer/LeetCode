@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/seogineer/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/seogineer/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/seogineer/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/seogineer/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/seogineer/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/seogineer/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Math
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/seogineer/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/seogineer/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/seogineer/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/seogineer/LeetCode/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/seogineer/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sliding Window
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/seogineer/LeetCode/tree/master/0002-add-two-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/seogineer/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
