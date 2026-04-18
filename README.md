@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/seogineer/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/seogineer/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/seogineer/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/seogineer/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/seogineer/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/seogineer/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/seogineer/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -222,5 +224,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/seogineer/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/seogineer/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/seogineer/LeetCode/tree/master/0226-invert-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/seogineer/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
